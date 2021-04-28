@@ -12,7 +12,8 @@
           <div class="container">
             <div class="inset-xl-left-70 inset-xl-right-70">
               <article class="box-cart bg-ebony-clay">
-                <div class="box-cart-image"><img src="{{asset('Frontend')}}/assets/images/home-2-342x338.jpg" alt="" width="342" height="338"/>
+                <div class="box-cart-image">
+                <img src="{{asset('Frontend')}}/assets/images/home-about1.jpg" alt="" width="342" height="338"/>
                 </div>
                 <div class="box-cart-body">
                   <blockquote class="blockquote-complex blockquote-complex-inverse">
@@ -30,11 +31,11 @@
             </div>
           </div>
         </div>
-        <div class="bg-displaced bg-image" style="background-image: url({{asset('Frontend')}}/assets/images/home-1.jpg);"></div>
+        <div class="bg-displaced bg-image" style="background-image: url({{asset('Frontend')}}/assets/images/home-about-background.jpg);"></div>
       </section>
 
    
-      <section class="section parallax-container bg-black" data-parallax-img="{{asset('Frontend')}}/assets/images/progress-bars-parallax-1.jpg">
+      <section class="section parallax-container bg-black" data-parallax-img="{{asset('Frontend')}}/assets/images/home-about2.jpg">
         <div class="parallax-content">
           <div class="section-50 section-md-90">
             <div class="container">
@@ -91,7 +92,7 @@
                 </div>
                 <div class="quote-footer">
                   <div class="unit unit-horizontal unit-spacing-sm align-items-center">
-                    <div class="unit-left"><img class="img-circle" src="{{asset('Frontend')}}/assets/images/clients-testimonials-1-68x68.jpg" alt="" width="68" height="68"/>
+                    <div class="unit-left"><img class="img-circle" src="{{asset('Frontend')}}/assets/images/lawyer-1.jpg" alt="" width="68" height="68"/>
                     </div>
                     <div class="unit-body">
                       <cite>Mark Wilson</cite>
@@ -118,7 +119,7 @@
                 </div>
                 <div class="quote-footer">
                   <div class="unit unit-horizontal unit-spacing-sm align-items-center">
-                    <div class="unit-left"><img class="img-circle" src="{{asset('Frontend')}}/assets/images/clients-testimonials-2-68x68.jpg" alt="" width="68" height="68"/>
+                    <div class="unit-left"><img class="img-circle" src="{{asset('Frontend')}}/assets/images/lawyer-2.jpg" alt="" width="68" height="68"/>
                     </div>
                     <div class="unit-body">
                       <cite>Amanda Eberson</cite>

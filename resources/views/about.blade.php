@@ -8,7 +8,7 @@
 @section('content')
 
 
-<section class="section-30 section-md-40 section-lg-66 section-xl-bottom-90 bg-gray-dark page-title-wrap" style="background-image: url({{asset('Frontend')}}/assets/images/bg-image-1.jpg);">
+<section class="section-30 section-md-40 section-lg-66 section-xl-bottom-90 bg-gray-dark page-title-wrap" style="background-image: url({{asset('Frontend')}}/assets/images/about1.jpg);">
         <div class="container">
           <div class="page-title">
             <h2>About Us</h2>
@@ -105,7 +105,7 @@
               </div>
             </div>
             <div class="col-md-9 col-lg-6 col-xl-7 offset-top-30 offset-md-top-0 d-none d-lg-block">
-              <div class="image-wrap-1"><img src="{{asset('Frontend')}}/assets/images/about-1-670x578.png" alt="" width="670" height="578"/>
+              <div class="image-wrap-1"><img src="{{asset('Frontend')}}/assets/images/about2.jpg" alt="" width="670" height="578"/>
               </div>
             </div>
           </div>

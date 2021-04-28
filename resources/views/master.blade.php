@@ -70,7 +70,6 @@
                       </li>
                       <li><a href="{{route('about')}}">About Us</a>
                       </li>
-                      
                     </ul>
                   </div>
                 </div>
